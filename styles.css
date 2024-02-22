@@ -1,0 +1,32 @@
+.title {
+    text-align: center;
+    font-size: 50px;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.download-icon {
+    width: 200px;
+    height: auto;
+}
+
+.image-container {
+    text-align: center; /* Centrar el contenido */
+}
+
+.filename {
+    display: block; /* Para que el texto esté debajo de la imagen */
+    font-size: 20px; /* Tamaño de la fuente */
+    color: #333; /* Color del texto */
+    margin-top: 5px;
+}
+
+.winrar-images {
+    display: inline-block; /* Coloca los elementos en línea */
+    vertical-align: top; /* Alinea las imágenes en la parte superior */
+    margin-right: 20px; /* Espacio entre las imágenes */
+    text-align: center; /* Alinea el contenido al centro */
+}
+
